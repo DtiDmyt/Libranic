@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "792683162228",
+    "project_id": "libranic-xipplg2",
+    "storage_bucket": "libranic-xipplg2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792683162228:android:e76b8fcf8b2bb2d6ac7f21",
+        "android_client_info": {
+          "package_name": "com.libranic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792683162228-eb7fq0j2lo3bqn29e6748385gfprmq3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWsVI3vRJ_uPl2mZvG9bTgioDxfNrD-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792683162228-eb7fq0j2lo3bqn29e6748385gfprmq3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792683162228-ej3blk1tiph68e5oba560l3mtmlf9ln1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.libranic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792683162228:android:0dd25003490daa27ac7f21",
+        "android_client_info": {
+          "package_name": "com.xipplg2.libranic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792683162228-eb7fq0j2lo3bqn29e6748385gfprmq3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWsVI3vRJ_uPl2mZvG9bTgioDxfNrD-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792683162228-eb7fq0j2lo3bqn29e6748385gfprmq3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792683162228-ej3blk1tiph68e5oba560l3mtmlf9ln1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.libranic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

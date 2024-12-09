@@ -1,0 +1,56 @@
+name: libranic
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.1.1
+  image_picker: ^1.1.2
+  firebase_core: ^3.7.0
+  firebase_auth: ^5.3.1
+  intl: ^0.18.0
+  material_design_icons_flutter: ^7.0.7296
+  flutter_iconpicker: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  rename: ^2.0.1
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/libranic.png
+    - assets/logo/tampilan1.jpg
+    - assets/logo/tampilan2.jpg
+    - assets/logo/tampilan3.jpg
+    - assets/buku/TeruslahBodohJanganPintar.png
+    - assets/buku/laskar_pelangi.jpg
+    - assets/buku/si_anak_cahaya.jpeg
+    - assets/buku/dilan.jpg
+    - assets/buku/perahu_kertas.jpg
+    - assets/buku/hujan_bulan_juni.jpg
+    - assets/buku/tentang_kamu.jpeg    
+    - assets/buku/tempo.jpg
+    - assets/buku/gatra.jpg
+    - assets/buku/intisari.jpg
+    - assets/buku/bobo.jpeg
+    - assets/buku/national_geographic.jpg
+    - assets/buku/teras.jpeg
+    - assets/buku/kawanku.jpg
+    - assets/buku/garudayana.jpg
+    - assets/buku/si_juki.jpg
+    - assets/buku/reborn.jpg
+    - assets/buku/eggnoid.jpeg
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/libranic.png"
